@@ -77,4 +77,4 @@
 | **Requirement Name** | System Interface |
 | **Characteristics** | The system will present a simple user interface so that it is easy to use for system users. |
 | **Requirement Description** | The system must have an intuitive and simple user interface |
-| **Requirement Priority**<br>High
+| **Requirement Priority** | High |
